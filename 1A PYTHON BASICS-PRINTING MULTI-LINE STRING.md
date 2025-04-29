@@ -41,5 +41,5 @@ print(string2)
 
 ## RESULT
 
-Thus the Python program was written and executed successfully.
+Thus the Python program to print the string in multiple lines using triple quotes was written and ececuted successfully.
 
