@@ -1,7 +1,7 @@
 # Experiment No: 1a Python Basics- Printing Multiline String
 
 ## AIM  
-To create a Python program to print the string in multiple lines using triple quotes.
+To create a Python program to print the string in multiple lines using triple quotes. 
 
 ## ALGORITHM  
 1. Begin the program.  
